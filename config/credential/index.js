@@ -1,0 +1,1 @@
+const firestoreCredential = require("./rn-test-8a3b0-firebase-adminsdk-rpl4m-fa0d3b83ed");const devKeys = require("./devKeys");module.exports = {firestoreCredential,devKeys};//module.exports = devKeys;

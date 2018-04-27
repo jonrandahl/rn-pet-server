@@ -1,0 +1,1 @@
+module.exports = {  firestore:{    docAmountPerBatch: 300,    petsCollectionName: 'pets',    rescueGroupAPIKey : 'KJquDhsf'  }}

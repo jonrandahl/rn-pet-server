@@ -16,6 +16,8 @@
     "nodemon": "^1.17.3"
   },
   "nodemonConfig": {
-    "ignore": ["services/*"]
+    "ignore": [
+      "services/*"
+    ]
   }
 }

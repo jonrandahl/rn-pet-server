@@ -1,0 +1,1 @@
+const priviateKey = require('./rn-pets-test-firebase-adminsdk-79kc6-19919d38b3')module.exports = {  devKeys: {    RescueGroups_ApiKey : 'KJquDhsf',    googleMapApi : 'AIzaSyDD66yBCFLMvu29i3dYibpGaiFvcin1DXo'//'AIzaSyDftJeXy-eJ1zdkiANQgQzuMRFsttbdzv8'  },  privateKey : priviateKey,}

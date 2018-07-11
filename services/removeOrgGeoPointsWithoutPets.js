@@ -1,0 +1,1 @@
+const removeOrgGeoPointsWithoutPets = () => {}module.exports = removeOrgGeoPointsWithoutPets
